@@ -1,4 +1,4 @@
 <?php
-echo "Hola des del contenidor " . gethostname();
+echo "Holaa des del contenidor " . gethostname();
 ?>
 
